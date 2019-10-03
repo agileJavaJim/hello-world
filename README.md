@@ -1,3 +1,3 @@
 # hello-world
 Just another repository,
-I enjoy sunrises, and practicing belly button lint divination.
+I am an Open Source Advocate, and practicing Belly Button Lint Divination Expert.
